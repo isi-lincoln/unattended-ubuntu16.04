@@ -1,4 +1,4 @@
-reating an Unattended Ubuntu Server 16.04 CD
+# Creating an Unattended Ubuntu Server 16.04 CD
 
 Googling around the internet you will find my ways to do this - including ubuntu's webpage: https://help.ubuntu.com/community/Installation/UnattendedCD
 
